@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms in Java**
 - 👯 I’m looking to collaborate on Web Development Project.
 - 💬 Ask me about anything <a href="https://github.com/yashmitaa/yashmitaa/pulls">here!</a>
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to spend my most of the time in finding/searching for new things.
 
 <!---
